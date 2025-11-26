@@ -3,7 +3,7 @@ Hi, I'm Mohanariprasath J
 Welcome to my portfolio repository!
 I'm a Full-Stack Web Developer specializing in building clean, efficient, and scalable applications. I love working with modern technologies and bringing ideas to life through code.
 
-About Me
+About Me:
 
 🔧 Full-stack developer
 
@@ -13,7 +13,7 @@ About Me
 
 🎯 Focus Areas: Backend development, REST APIs, UI/UX, system design
 
-Tech Stack
+Tech Stack:
 
 Frontend
 
@@ -41,4 +41,4 @@ MySQL
 
   VS Code / PyCharm
 
-My Development Philosophy
+My Development Philosophy:
