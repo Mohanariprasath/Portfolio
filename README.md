@@ -10,3 +10,5 @@ About Me
 💼 Experienced in building real-world applications
 
 🌱 Currently working on: Student Management System (Flask + MySQL)
+
+🎯 Focus Areas: Backend development, REST APIs, UI/UX, system design
