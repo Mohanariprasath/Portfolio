@@ -30,3 +30,13 @@ Backend
   REST API development
   
   SQLAlchemy ORM
+
+Database
+
+MySQL
+
+  SQLite (for testing)
+
+  Tools
+
+  VS Code / PyCharm
