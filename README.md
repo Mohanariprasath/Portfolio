@@ -42,3 +42,13 @@ MySQL
   VS Code / PyCharm
 
 My Development Philosophy:
+
+  Write clean, maintainable code → future-friendly
+
+Keep it simple → straightforward UI/UX
+
+Automate where possible
+
+Learn continuously → tech is always evolving
+
+Solve real problems, not just build features
