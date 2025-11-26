@@ -12,3 +12,21 @@ About Me
 🌱 Currently working on: Student Management System (Flask + MySQL)
 
 🎯 Focus Areas: Backend development, REST APIs, UI/UX, system design
+
+Tech Stack
+
+Frontend
+
+  HTML5, CSS3, JavaScript
+
+  Bootstrap / TailwindCSS
+
+  Basic React (if applicable)
+
+Backend
+
+  Python, Flask (preferred), Django
+  
+  REST API development
+  
+  SQLAlchemy ORM
