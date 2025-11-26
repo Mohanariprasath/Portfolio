@@ -45,10 +45,10 @@ My Development Philosophy:
 
   Write clean, maintainable code → future-friendly
 
-Keep it simple → straightforward UI/UX
+  Keep it simple → straightforward UI/UX
 
-Automate where possible
+  Automate where possible
 
-Learn continuously → tech is always evolving
+  Learn continuously → tech is always evolving
 
-Solve real problems, not just build features
+  Solve real problems, not just build features
