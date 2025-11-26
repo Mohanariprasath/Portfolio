@@ -40,3 +40,5 @@ MySQL
   Tools
 
   VS Code / PyCharm
+
+My Development Philosophy
