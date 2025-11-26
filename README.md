@@ -6,3 +6,7 @@ I'm a Full-Stack Web Developer specializing in building clean, efficient, and sc
 About Me
 
 🔧 Full-stack developer
+
+💼 Experienced in building real-world applications
+
+🌱 Currently working on: Student Management System (Flask + MySQL)
